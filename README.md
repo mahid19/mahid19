@@ -12,9 +12,6 @@ Skills:  JS / HTML / CSS
 - 💬 Ask me about Design 
 - 📫 How to reach me: mujahidunmahid@gmail.com 
 
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahid19)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>(https://www.facebook.com/Mujahidun Muslem)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>(https://www.instagram.com/mujahidun_mahid/)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahid19)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahid19)](https://github.com/anuraghazra/github-readme-stats)
