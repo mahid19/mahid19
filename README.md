@@ -17,4 +17,6 @@ Skills:  JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahid19)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahid19&theme=shadow_red&show_icons=true)  
+![mahid19's Stats](https://github-readme-stats.vercel.app/api?username=mahid19&theme=graywhite&show_icons=true&hide_border=false&count_private=false)
+
+![mahid19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahid19&theme=graywhite&hide_border=false)
