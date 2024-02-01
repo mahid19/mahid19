@@ -13,9 +13,7 @@ Skills:  JS / HTML / CSS
 - 💬 Ask me about Designs
 - 📫 How to reach me: mujahidunmahid@gmail.com 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahid19)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahid19)
-|![mahid19's Stats](https://github-readme-stats.vercel.app/api?username=mahid19&theme=graywhite&show_icons=true&hide_border=false&count_private=false) | ![mahid19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahid19&theme=graywhite&hide_border=false) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=mahid19)](https://github.com/ryo-ma/github-profile-trophy) | ![mahid19's Stats](https://github-readme-stats.vercel.app/api?username=mahid19&theme=graywhite&show_icons=true&hide_border=false&count_private=false) | ![mahid19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahid19&theme=graywhite&hide_border=false) |
 |:---:|:---:|:---:|
+
 
