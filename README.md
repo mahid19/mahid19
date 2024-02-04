@@ -13,9 +13,9 @@ Skills: JS / HTML / CSS
 - 💬 Ask me about Designs
 - 📫 How to reach me: mujahidunmahid@gmail.com 
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=mahid19)](https://github.com/ryo-ma/github-profile-trophy) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=mujahidun-mahid)](https://github.com/ryo-ma/github-profile-trophy) |
 |:---:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahid19&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidun-mahid&theme=tokyonight) |
 
-![mahid19's Stats](https://github-readme-stats.vercel.app/api?username=mahid19&theme=gotham&show_icons=true&hide_border=false&count_private=true) | ![mahid19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahid19&theme=gotham&hide_border=false) |
+![mujahidun-mahid's Stats](https://github-readme-stats.vercel.app/api?username=mujahidun-mahid&theme=gotham&show_icons=true&hide_border=false&count_private=true) | ![mujahidun-mahid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mujahidun-mahid&theme=gotham&hide_border=false) |
 |:---:|:---:|
