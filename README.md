@@ -58,6 +58,4 @@
 
 ###
 
-![image](https://github.com/mujahidun-mahid/mujahidun-mahid/assets/157151032/b55f1927-0c74-489c-8566-0b51fb6fc2c0)
 
-###
