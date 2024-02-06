@@ -54,8 +54,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mujahidun-mahid/output/snake.svg" alt="Snake animation" />
-
-###
-
 
