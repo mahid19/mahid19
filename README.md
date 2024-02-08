@@ -1,7 +1,8 @@
 ### Hi there 👋, Hi there 👋, I am Mujahidun Muslim Mahid
 #### Programmer | UI/UX designer | Web Designer
-![Programmer | UI/UX designer | Web Designer](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/328273745_708847470898411_788651178928821366_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeF56ZCnn0QMPz0IcRPAVHwqahGv064k7llqEa_TriTuWdWPZ9xZpHhC8r6622NNr7QEdRhNEKswVNGYafKxjgYM&_nc_ohc=xdTWxmb4M28AX-g5Kyn&_nc_ht=scontent.fcgp27-1.fna&oh=00_AfAGolURlk2zBi7h6UUWOqtLE-zfsafFUH8Gyf9K5ubCKA&oe=65BF5D3A)
+[mahid](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/328273745_708847470898411_788651178928821366_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeF56ZCnn0QMPz0IcRPAVHwqahGv064k7llqEa_TriTuWdWPZ9xZpHhC8r6622NNr7QEdRhNEKswVNGYafKxjgYM&_nc_ohc=xdTWxmb4M28AX-g5Kyn&_nc_ht=scontent.fcgp27-1.fna&oh=00_AfAGolURlk2zBi7h6UUWOqtLE-zfsafFUH8Gyf9K5ubCKA&oe=65BF5D3A)
 
+## Programmer | UI/UX designer | Web Designer
 My name is Mujahidun Muslim Mahid, and I am a Diploma student in Computer Science and Technology with a strong interest in programming . I am currently dedicated to developing my skills in Web and software development and am eager to apply my knowledge to solve real-world problems.
 
 Skills: JS / HTML / CSS /C 
