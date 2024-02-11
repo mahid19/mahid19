@@ -33,7 +33,4 @@ Skills: Java / HTML / CSS /C
 
 ###
 
-<img src="https://raw.githubusercontent.com/mujahidun-mahid/mujahidun-mahid/output/snake.svg" alt="Snake animation" />
-
-###
 
