@@ -20,7 +20,6 @@ Skills: Java / HTML / CSS /C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidun-mahid)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidun-mahid&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidun-mahid&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=mujahidun-mahid)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mujahidun-mahid)  
 
