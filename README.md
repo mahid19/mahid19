@@ -1,6 +1,7 @@
 ### Hi there 👋, Hi there 👋, I am Mujahidun Muslim Mahid
 #### Programmer | UI/UX designer | Web Designer
-![Profile Image]("E:\328273745_708847470898411_788651178928821366_n.jpg")
+![Profile Image](https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/328273745_708847470898411_788651178928821366_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeF56ZCnn0QMPz0IcRPAVHwqahGv064k7llqEa_TriTuWdWPZ9xZpHhC8r6622NNr7QEdRhNEKswVNGYafKxjgYM&_nc_ohc=K788t1PdZugAX8DD27g&_nc_ht=scontent.fdac144-1.fna&oh=00_AfAsgdySAHjZDAPEgVPb52WUYIXz3HYS0yW_WTRnA49vbA&oe=65D51DFA)
+
 
 
 My name is Mujahidun Muslim Mahid, and I am a Diploma student in Computer Science and Technology with a strong interest in programming . I am currently dedicated to developing my skills in Web and software development and am eager to apply my knowledge to solve real-world problems.
