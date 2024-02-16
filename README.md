@@ -1,19 +1,21 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mujahidun-mahid.mujahidun-mahid&left_color=deepskyblue&right_color=lightcoral"  />
-</div>
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/328273745_708847470898411_788651178928821366_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeF56ZCnn0QMPz0IcRPAVHwqahGv064k7llqEa_TriTuWdWPZ9xZpHhC8r6622NNr7QEdRhNEKswVNGYafKxjgYM&_nc_ohc=K788t1PdZugAX8DD27g&_nc_ht=scontent.fdac144-1.fna&oh=00_AfAsgdySAHjZDAPEgVPb52WUYIXz3HYS0yW_WTRnA49vbA&oe=65D51DFA)
+### Hi there 👋, Hi there 👋, I am Mujahidun Muslim Mahid
+#### Programmer | UI/UX designer | Web Designer
+![Profile Image]("E:\328273745_708847470898411_788651178928821366_n.jpg")
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+My name is Mujahidun Muslim Mahid, and I am a Diploma student in Computer Science and Technology with a strong interest in programming . I am currently dedicated to developing my skills in Web and software development and am eager to apply my knowledge to solve real-world problems.
+
+Skills:  Java / HTML / CSS /C
 
 - 🔭 I’m currently working on UI Design and programming languages  
 - 🌱 I’m currently learning python, java,c  
 - 👯 I’m looking to collaborate on   
 - 💬 Ask me about Designs 
 - 📫 How to reach me:  mujahidunmahid@gmail.com  
+
+
+
+
 
 
 
